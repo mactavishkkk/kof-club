@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container {
+    background: hsla(333, 100%, 53%, 1);
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1);
+}
+
+.main-content-chars {
+    flex: 1 0 auto;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px 15px;
+}
+
+.title-chars {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-shadow: 5px 3px black;
+
+}
+
+.card-chars {
+    padding: 35px;
+    border: 2px solid white;
+    box-shadow: 5px -3px black;
+    color: black;
+    border-radius: 8px;
+
+    background: hsla(232, 100%, 30%, 1);
+    background: linear-gradient(180deg, hsla(232, 100%, 30%, 1) 21%, hsla(217, 100%, 50%, 1) 100%);
+    background: -moz-linear-gradient(180deg, hsla(232, 100%, 30%, 1) 21%, hsla(217, 100%, 50%, 1) 100%);
+    background: -webkit-linear-gradient(180deg, hsla(232, 100%, 30%, 1) 21%, hsla(217, 100%, 50%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#001597", endColorstr="#0061FF", GradientType=1);
+}
+
+.card-title {
+    text-align: center;
+    color: white;
+}
+
+.card-description {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+
+.main-content-games {
+    color: black;
+    padding: 20px;
+}
+
+.title-games {
+    color: black;
+}
+
+.img-games{
+    width: 100%;
+    border-radius: 7px;
+    border: 5px solid black;
+}

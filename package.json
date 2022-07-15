@@ -1,0 +1,25 @@
+{
+  "name": "kof-clube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mactavishkkk/kof-clube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mactavishkkk/kof-clube/issues"
+  },
+  "dependencies": {
+    "core-js": "^3.23.3",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "homepage": "https://github.com/mactavishkkk/kof-clube#readme"
+  
+}

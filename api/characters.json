@@ -1,0 +1,244 @@
+{
+    "characters": [
+        {
+            "id": "0",
+            "name": "K' (Kay Dash)",
+            "description": "K' (nome real desconhecido) era uma criança normal, que vivia feliz com sua irmã, Seirah. Um dia, eles foram capturados pela NESTS, um sindicato do crime que focava em medicamentos, genética, robótica e biotecnologia. K' foi mantido no abrigo da NESTS e treinado para ser algum tipo de arma.",
+            "image": "../img/k-img.png"
+        },
+        {
+            "id": "1",
+            "name": "Maxima (Makishima)",
+            "description": "Maxima era um soldado canadense que levava uma vida normal até descobrir que seu companheiro de armas Rocky foi morto em um incidente envolvendo a NESTS. Para vingar Rocky, ele decidiu sacrificar sua vida anterior; ele teve seu rosto e nome alterados e sua vida 'comum' destruída.",
+            "image": "../img/maxima-img.png"
+        },
+        {
+            "id": "2",
+            "name": "Whip (Seirah)",
+            "description": "De acordo com o diário dos desenvolvedores para KOF 2000, seu nome Whip é um anagrama de Winnie-the-Pooh. Ela é a irmã mais velha de K' e já trabalhou para NESTS como uma assassina. No romance 2001 escrito por Akihiko Ureshino, Whip é uma clone da real Seirah, que morreu após ser abduzida pela NESTS e este conceito foi presumivelmente integrados na série.",
+            "image": "../img/whip-img.png"
+        },
+        {
+            "id": "3",
+            "name": "Ryo (Ryo Sakazaki)",
+            "description": "Ryo é filho de Takuma Sakazaki e Ronnet Sakazaki e irmão mais velho de Yuri Sakazaki. Como Ryo foi considerado o sucessor de Takuma, ele começou seu treinamento em artes marciais em tenra idade. Seu pai incutiu nele o difícil princípio da autoconfiança, onde a própria força de uma pessoa pode formar seu valor no mundo.",
+            "image": "../img/ryo-img.png"
+        },
+        {
+            "id": "4",
+            "name": "Robert (Robert Garcia)",
+            "description": "Robert Garcia é o filho de Alberto Garcia, um rico empresário e um dos melhores amigos de Takuma Sakazaki, o mestre do Caratê Kyokugenryu. Quando mais jovem, Robert era fascinado com o estilo de luta da família Sakazaki já que ele o via como uma válvula de escape da sombra de seu poderoso pai na sufocante alta sociedade.",
+            "image": "../img/robert-img.png"
+        },
+        {
+            "id": "5",
+            "name": "Takuma (Takuma Sakazaki)",
+            "description": "Durante sua juventude, ele se tornou rival de Ryuhaku Todoh e Lee Gakusuo, pai de Lee Pai Long. Ele uma vez lutou em uma partida com Gakusuo, mas eles não conseguiram decidir sobre um vencedor final e terminou em empate. Em homenagem à força um do outro, Gakusuo foi apelidado de 'O Tigre Supremo' e Takuma era conhecido como 'O Dragão Invencível'",
+            "image": "../img/takuma-img.png"
+        },
+        {
+            "id": "6",
+            "name": "Terry (Terry Bogard)",
+            "description": "Terry e Andy eram órfãos que viviam nas ruas. Eles logo foram adotados por Jeff Bogard e eventualmente viveram em Southtown. Quando Terry tinha 10 anos, ele testemunhou a morte de seu pai nas mãos de Geese Howard. Sabendo que precisavam de mais treinamento para confrontar Geese, os irmãos juraram passar uma década para aperfeiçoar suas artes marciais antes de tentar vingar seu pai.",
+            "image": "../img/terry-img.png"
+        },
+        {
+            "id": "7",
+            "name": "Andy (Andy Bogard)",
+            "description": "Após presenciar o assassinato de seu pai adotivo, Jeff Bogard, pelas mãos de Geese Howard, Andy e seu irmão, Terry Bogard, juraram vingança contra Geese e passaram a dedicar suas vidas à luta. Enquanto Terry continuava nas ruas de South Town, Andy foi ao Japão treinar sob orientação de Hanzo Shiranui, mestre em ninjutsu e velho amigo de Tung Fu Rue. ",
+            "image": "../img/andy-img.png"
+        },
+        {
+            "id": "8",
+            "name": "Joe (Joe Higashi)",
+            "description": "Embora Joe seja natural do Japão, ele fica a maior parte do tempo na Tailândia, onde treina Muay Thai. Por causa de suas vitórias, Joe ganhou o apelido de 'Hurricane Upper' Joe Higashi. Ele parece ter uma piada do tipo onde sua lenda está 'apenas começando', em suas terminações em toda a série. Joe ganhou seu título como campeão de Muay Thai ao derrotar o favorito Hwa Jai na final em um torneio.",
+            "image": "../img/joe-img.png"
+        },
+        {
+            "id": "9",
+            "name": "Athena (Athena Asamiya)",
+            "description": "Athena é uma garota moderna do ensino médio no Japão. Ela se juntou com seu amigo, Sie Kensou, para lutar em nome da justiça. Em Psycho Soldiers, ela foi um dos 'heróis da luz' que defenderam o mundo das forças de Shiguma. Acredita-se que seus poderes psíquicos sejam transmigrados para ela, em vez de herdados por sua família.",
+            "image": "../img/athena-img.png"
+        },
+        {
+            "id": "10",
+            "name": "Kensou (Sie Kensou)",
+            "description": "A young boy with psychic powers, Sie was adopted by Chin. Traveling together, they met Athena and founded the Psycho Soldiers. Sie fell madly in love with Athena, but she remains 'just a friend'. Sie temporarily lost his powers with the appearance of Bao, but he got them back when Bao was struck by the Zero Cannon.",
+            "image": "../img/kensou-img.png"
+        },
+        {
+            "id": "11",
+            "name": "Chin (Chin Gentsai)",
+            "description": "Chin era conhecido, muito tempo atrás, como um guerreiro muito habilidoso e um experiente em artes marciais. Entretanto, durante o passar dos anos, o corpo de Chin tem ficado mais fraco, e o antigo excelente guerreiro se torna agora um velho homem pequeno e desalinhado.",
+            "image": "../img/chin-img.png"
+        },
+        {
+            "id": "12",
+            "name": "Kyo (Kyo Kusanagi)",
+            "description": "660 anos atrás, os clãs Kusanagi e Yasakani eram aliados. Porem, devido a um mal-entendido horrível, Yasakani fez um pacto de sangue com Orochi por mais poder. Eles renomearam seu nome de família para Yagami, e suas chamas, antes vermelhas como de seus aliados, mudou para violeta devido a impureza de Orochi.",
+            "image": "../img/kyo-img.png"
+        },
+        {
+            "id": "13",
+            "name": "Benimaru (Benimaru Nikaido)",
+            "description": "Benimaru é um jovem filho de uma família multimilionária. Ele é um lutador profissional e modelador profissional de meio período que está muito confiante em suas habilidades. Quando o Japão realizou um torneio para a equipe representativa de seu país no King of Fighters, Benimaru entrou e chegou às finais.",
+            "image": "../img/benimaru-img.png"
+        },
+        {
+            "id": "14",
+            "name": "Daimon (Goro Daimon)",
+            "description": "Goro is a former Olympic gold medalist for Judo. He participated in Japan's mixed martial arts tournament to determine the members for the country's King of Fighters team. Although he got far into the finals, he lost against Kyo and was bumped to third place. ",
+            "image": "../img/daimon-img.png"
+        },
+        {
+            "id": "15",
+            "name": "Mai (Mai Shiranui)",
+            "description": "Mai Shiranui is the granddaughter of Hanzo Shiranui, master of ninjitsu and Koppo-ken. Mai learned from her father the secrets of Ninjitsu. She had met Andy Bogard, during this time, who had come to train under her grandfather.",
+            "image": "../img/mai-img.png"
+        },
+        {
+            "id": "16",
+            "name": "MayLee (May Jinju Lee)",
+            "description": "May Lee is introduced in The King of Fighters 2001 as one of the many students of Kim Kaphwan, and has idolized him and Jhun Hoon ever since she could remember. One day, while training, she hears word of the King of Fighters tournament. As always, Team Korea (composed of Chang Koehan, Choi Bounge, Jhun Hoon, and team captain Kim Kaphwan) are set to enter.",
+            "image": "../img/maylee-img.png"
+        },
+        {
+            "id": "17",
+            "name": "Rugal (Rugal Bernstein)",
+            "description": "Temido por todo o mundo politico e marcial, Rugal era um traficante de armas influente que perava a bordo de seu porta-aviões Black Noah. Todos aqueles que se opõem a ele, ele faz questão de derrotá-los e depois preservar seus corpos em metal líquido para adicionar ao seu macabro quarto troféus. Ele trabalhava com seu irmão mais novo, mas eles se separaram devido a conflitos de interesses.",
+            "image": "../img/rugal-img.png"
+        },
+        {
+            "id": "20",
+            "name": "Yashiro (Orochi Yashiro)",
+            "description": "Não se sabe quando Yashiro percebeu que ele era um Rei Celestial. No final do torneio de 97, Yashiro, Shermie e Chris ativam o Riot of the Blood dentro de Leona e Iori Yagami como parte de seu plano para ressuscitar Orochi. Quando Leona e Iori são derrotados, a Equipe New Faces se revela como os Reis Celestiais e luta contra a equipe do jogador.",
+            "image": "../img/yashiro-img.png"
+        },
+        {
+            "id": "21",
+            "name": "Shermie (Orochi Shermie)",
+            "description": "Shermie é uma mulher bastante sensual que vive como uma garota moderna: Faz compras, sonha com um grande amor, vive sua vida tão intensamente quanto pode. Entretanto, seu destino já está traçado: O seu sangue de Orochi e seu cargo como um dos quatro Reis Sagrados de Orochi indicam como será sua vida.",
+            "image": "../img/shermie-img.png"
+        },
+        {
+            "id": "22",
+            "name": "Chris (Orochi Chris)",
+            "description": "Não se sabe quando Chris percebeu que era um Rei Celestial. No final do torneio de 97, Yashiro, Shermie e Chris ativam o Riot of the Blood dentro de Leona e Iori Yagami como parte de seu plano para ressuscitar Orochi. Quando Leona e Iori são derrotados, a Equipe New Faces se revela como os Reis Celestiais e luta contra a equipe do jogador.",
+            "image": "../img/chris-img.png"
+        },
+        {
+            "id": "23",
+            "name": "Mature",
+            "description": "Mature é uma das assassinas de Orochi que trabalham para Goenitz, um dos quatro reis de Orochi. Sendo a mais 'atratente', a beleza de Mature encanta bastante, mas, ao mesmo tempo, pode ser mortal.",
+            "image": "../img/mature-img.png"
+        },
+        {
+            "id": "24",
+            "name": "Vice",
+            "description": "Um dos Hakkesshu, Vice uniu forças com o companheiro Hakkesshu, Mature para servir seu mestre, Orochi. Os dois frequentemente recebiam ordens do superior Hakkesshu e de um dos Quatro Reis Celestiais de Orochi, Goenitz, embora ela não gostasse dele.",
+            "image": "../img/vice-img.png"
+        },
+        {
+            "id": "25",
+            "name": "Yamazaki (Ryuji Yamazaki)",
+            "description": "Ryuji Yamazaki é um homem com um passado atormentado. Desde que era muito pequeno, Yamazaki não tinha pais para lhe proteger, se tornando assim um vândalo nas ruas de Hong Kong, tentando sobreviver na difícil vida urbana, fugindo dos perigos do clima e do crime. E assim foi até que Yamazaki encontrou um homem bastante poderoso e respeitado no mundo do crime de Hong Kong.",
+            "image": "../img/yamazaki-img.png"
+        },
+        {
+            "id": "26",
+            "name": "Mary (Blue Mary)",
+            "description": "Blue Mary foi criada desde pequena pelo seu pai, que teve uma vida bastante ocupada. Desde quando era jovem, Mary começou a aprender a arte do 'Commando Sambo' e a aperfeiçoar seu corpo, seguindo assim as lições de seu pai, que, por sua vez, era um aluno de Geese Howard, o 'líder' de SouthTown. Aprendendo com seu pai que o crime não compensa, Mary descobriu bem rápido o que ela queria ser: uma agente policial!",
+            "image": "../img/mary-img.png"
+        },
+        {
+            "id": "27",
+            "name": "Billy (Billy Kane)",
+            "description": "Billy e sua jovem irmã Lilly Kane sempre viveram em extrema pobreza nos subúrbios da Inglaterra. Sentindo na pele a necessidade de conseguir um emprego estável e bem pago para sustentar Lilly, eles se mudam para Southtown, no coração dos Estados Unidos. Billy tentou ao máximo manter-se longe do crime e impunidade locais, mas acabou cedendo a tais.",
+            "image": "../img/billy-img.png"
+        },
+        {
+            "id": "28",
+            "name": "Leona (Leona Heidern)",
+            "description": "Leona nasceu em uma aldeia, residindo com sua família. Quando era criança, Goenitz chegou a sua casa e exigiu falar com Gaidel, o líder da aldeia. Ele pediu que Gaidel se juntasse a ele em seus deveres para servir a Orochi, já que todos na aldeia eram membros da linhagem de Orochi.",
+            "image": "../img/leona-img.png"
+        },
+        {
+            "id": "29",
+            "name": "Ralf (Ralf Jones)",
+            "description": "Ralf e Clark Still conheceram o comandante Heidern durante uma operação militar na Amazônia, no Brasil. Sua missão de alcançar o vilarejo Ikari foi impedida por um problema no avião que os transportava, que aterrizou em área inimiga. Os dois precisaram se aventurar sozinhos na floresta e acabaram por completar sua missão, mas perderam contato com o esquadrão.",
+            "image": "../img/ralf-img.png"
+        },
+        {
+            "id": "30",
+            "name": "Clark (Clark Still)",
+            "description": "Ralf e Clark Still conheceram o comandante Heidern durante uma operação militar na Amazônia, no Brasil. Sua missão de alcançar o vilarejo Ikari foi impedida por um problema no avião que os transportava, que aterrizou em área inimiga. Os dois precisaram se aventurar sozinhos na floresta e acabaram por completar sua missão, mas perderam contato com o esquadrão.",
+            "image": "../img/clark-img.png"
+        },
+        {
+            "id": "31",
+            "name": "Kim (Kaphwan Kim)",
+            "description": "Kim Kaphwan is the reigning world champion of Tae Kwon Do. Kim is invited by Wolfgang Krauser to compete in his King of Fighters tournament as he was hoping to face superb challengers. During the tournament Kim encounters the 'Lone Wolf', Terry Bogard. Kim acknowledges Terry as the superior fighter and the duo become good friends.  From that moment on Kim helps Terry in all that he can, though a definite (but friendly) rivalry is maintained.",
+            "image": "../img/kim-img.png"
+        },
+        {
+            "id": "32",
+            "name": "Chang (Chang Koehan)",
+            "description": "He was once a feared and violent criminal in Korea. He was spotted by Kim Kaphwan from a prison's surveillance footage and he wanted to use Chang's strength 'for justice'. Though Chang easily broke out of prison, he was caught by Kim and forced to undergo Kim's 'Rehabilitation project' in KOF. ",
+            "image": "../img/chang-img.png"
+        },
+        {
+            "id": "33",
+            "name": "Choi (Choi Bounge)",
+            "description": "Choi tinha uma vida pacífica, era dono se um açougue no subúrbio da Coréia, e era muito feliz e casado. Porém o tédio da vida, e sua empolgação para fazer as coisas, fez Choi ficar desesperado por ação. Ele era muito habilidoso, desde criança, com coisas cortantes, melhorando mais ainda com seu açougue. Porém, Choi às vezes sentia vontade de cortar outras coisas, sem ser carne de animal.",
+            "image": "../img/choi-img.png"
+        },
+        {
+            "id": "34",
+            "name": "Angel",
+            "description": "Ninguém deve se iludir com o sorriso e o corpo bem moldado da Angel, nem pela sua personalidade divertida, que ela demonstra às vezes. Essa garota é na verdade mais uma agente perigosa que trabalha para o quartel da NESTS. Sua bizarra maneira de misturar vários tipos de artes marciais a deixa praticamente imprevisível, já que seu estilo e movimento podem mudar em um instante. ",
+            "image": "../img/angel-img.png"
+        },
+        {
+            "id": "35",
+            "name": "K999 (Kay Four-Nine)",
+            "description": "After the death of Krizalid and the disappearance of K', NESTS decided to comb their research for errors. K9999 became the 'perfected' 9999th Kyo Kusanagi clone. Built from the ground up, K9999 wielded an exorbitant amount of power. The blue glove he wears helps him control his shapeshifting powers and keep them from going berserk. His main purpose was to dispatch the rogue creations that had escaped from NESTS's grasp.",
+            "image": "../img/k999-img.png"
+        },
+        {
+            "id": "36",
+            "name": "Kula (Kula Diamond)",
+            "description": "Kula Diamond foi criada com o codinome Anti-K pela NESTS para exterminar o traidor do cartel, K'. Ela possui o mesmo design de K', e suas roupas são quase idênticos aos de K', com DNA alterado para usar os poderes de gelo, em vez de fogo. Apesar dela ser criada para ser um fantoche irracional, sem nenhum sinal de emoções (além de ser uma jovem inocente), o cartel NESTS não estava disposto a repetir o mesmo erro que fez com K'.",
+            "image": "../img/kula-img.png"
+        },
+        {
+            "id": "37",
+            "name": "Ramon",
+            "description": "Ramon foi uma criança pobre com recursos limitados na sua infância. Ele teve que trabalhar duro para sustentar a si próprio e sua família, passando por vários empregos. Algumas vezes, ele entrava em desespero quando percebia que, mesmo trabalhando dia e noite, não conseguia dinheiro suficiente. E assim se seguiram os dias, até que um dia, Ramom entrou em uma arena....",
+            "image": "../img/ramon-img.png"
+        },
+        {
+            "id": "38",
+            "name": "Vanessa",
+            "description": "Muitos pensam que Vanessa, com seus golpes repetidos e falas sem noção, foi criada apenas para encher linguiça na tela de seleção de personagens de The King of Fighters, ou então para agradar aos punheteiros que querem ver peitos balançando enquanto jogam.",
+            "image": "../img/vanessa-img.png"
+        },
+        {
+            "id": "39",
+            "name": "Yuri (Yuri Sakazaki)",
+            "description": "Quando criança, Takuma dedicou mais tempo treinando Ryo para ser o próximo herdeiro da família, em vez de criar Yuri. Quando ela tinha seis anos, sua mãe morreu em um trágico acidente de carro. Sentindo que sua família estava sendo alvo, seu pai sai para protegê-los. Com a perda de ambos os pais, ela se torna medrosa e fortemente dependente de Ryo pelo resto de sua infância.",
+            "image": "../img/yuri-img.png"
+        },
+        {
+            "id": "40",
+            "name": "Iori (Iori Yagami)",
+            "description": "660 years before the game takes place, Orochi's seal began to weaken. The three clans decided to move its vessel into another location. Wanting to disrupt their unity, one of the Hakkesshu killed the Yasakani leader's wife. Under a disguise, the murderer then approached the Yasakani head and reported that the Kusanagi clan was responsible, saying that it was 'atonement' for letting the seal weaken. To add more fuel to the fire, the corpse of his wife was found in the Kusanagi homeland.",
+            "image": "../img/iori-img.png"
+        },
+        {
+            "id": "41",
+            "name": "Seth",
+            "description": "Ele foi ordenado por seu superior Ling para entrar no torneio King of Fighters para capturar o líder dos Flying Brigands, Ron. Para fazer isso, ele organiza uma equipe com Benimaru Nikaido, Shingo Yabuki e Lin. Durante o torneio, ele descobre que Ling é realmente Zero disfarçado e que Ron se juntou à NESTS. Ele continua investigando as atividades de Ron à medida que a série avança, presumivelmente para evitar que ele se torne muito poderoso.",
+            "image": "../img/seth-img.png"
+        }       
+    ]
+}
