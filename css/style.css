@@ -26,7 +26,6 @@
     color: white;
     text-decoration: underline;
     text-shadow: 5px 3px black;
-
 }
 
 .card-chars {
@@ -64,8 +63,87 @@
     color: black;
 }
 
-.img-games{
-    width: 100%;
+.img-games {
+    width: 500%;
     border-radius: 7px;
     border: 5px solid black;
+}
+
+@media (min-width: 1600px) and (width: 2560px) {
+    .img-games {
+        width: auto;
+        height: 100%;
+    }
+
+    .card-description {
+        font-size: 25px;
+    }
+
+    .card-title {
+        font-size: 35px;
+    }
+
+    .main-content-games {
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width: 1024px) {
+    .main-content-chars {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .img-games {
+        width: auto;
+        height: 100%;
+    }
+
+    .card-description {
+        font-size: 20px;
+    }
+
+    .main-content-games {
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width: 768px) {
+    .main-content-chars {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .img-games {
+        width: 750px;
+        height: auto;
+    }
+
+    .card-description {
+        font-size: 20px;
+    }
+
+    .card-text {
+        font-size: 15px;
+    }
+
+}
+
+@media(max-width: 320px) {
+    .main-content-chars {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .img-games {
+        width: 500%;
+        height: auto;
+    }
+
+    .card-description {
+        font-size: 18px;
+    }
+
+    .card-text {
+        font-size: 15px;
+    }
 }
